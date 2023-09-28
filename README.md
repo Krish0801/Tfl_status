@@ -9,7 +9,7 @@ I used Composable for UI Design.
 This Api as:
 
 * Line names
-* Statusof lines
+* Line status
 
 <p float="center">
   <img src="app/src/main/Img_2.png" width="250" />
